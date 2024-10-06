@@ -1,0 +1,12 @@
+>>> url.scheme
+'https'
+>>> url.host
+'www.python.org'
+>>> url.path
+'/~guido'
+>>> url.query_string
+'arg=1'
+>>> url.query
+<MultiDictProxy('arg': '1')>
+>>> url.fragment
+'frag'
